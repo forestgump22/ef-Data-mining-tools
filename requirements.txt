@@ -1,3 +1,5 @@
-scikit-learn
-pandas
 streamlit
+pandas
+scikit-learn
+optuna
+pickle-mixin
